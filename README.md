@@ -1,6 +1,6 @@
 # React Store Example
 
-- Adding/Deleting from/into Cart
+- Adding/Deleting into/from Cart
 
 In order to run the program, after download or pull run 
 - npm install 
